@@ -61,3 +61,20 @@ h1{
 .skill{
     text-align: center;
 }
+.skill-block{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    box-shadow: 10px 10px 40px grey;
+    border-left: 5px solid limegreen;
+}
+#new-Border{
+    border-left: 5px solid;
+    border-image: linear-gradient( #5F9CFF, #61FFE1, #5F9CFF);
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+}
