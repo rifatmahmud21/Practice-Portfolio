@@ -38,7 +38,7 @@ h3{
     background-image: linear-gradient(pink, #F16667);
 }
 .banner{
-    background-image: url(images/banner.png);
+    background-image: url(Images/banner.png);
     min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -47,7 +47,7 @@ h1{
     font-size: 80px;
 }
 .banner-2{
-    background-image: url(images/2nd\ b.png);
+    background-image: url(Images/2nd\ b.png);
     min-height: 100%;
     background-position: center;
     background-size: cover;
