@@ -10,6 +10,9 @@ body{
     font-size: 150px;
     color: #F16667;
 }
+p{
+    font-size: 25px;
+}
 h3{
     font-size: 30px;
 }
@@ -22,16 +25,16 @@ section{
 }
 .half-width img{
     width: 80%;
-    padding: 5%;
+    padding: 0;
 }
 .link-button{
     text-decoration: none;
     background-color:#F16667;
+    font-size: 30px;
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
     font-weight: 400;
-    font-family: 'Bebas Neue', cursive;
     background-image: linear-gradient(pink, #F16667);
 }
 .banner{
@@ -39,4 +42,13 @@ section{
     min-height: 100%;
   background-position: center;
   background-size: cover;
+}
+h1{
+    font-size: 80px;
+}
+.banner-2{
+    background-image: url(images/2nd\ b.png);
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
 }
